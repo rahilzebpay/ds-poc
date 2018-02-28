@@ -1,0 +1,5 @@
+plugins:
+  message:
+    name: kafka
+    options:
+      connectionString: localhost:2181
